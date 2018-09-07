@@ -5,7 +5,7 @@
 	"license": [
 		"Apache-2.0"
 	],
-	"homepage": "https://metastore.pro",
+	"homepage": "https://metastore.pro/",
 	"keywords": [
 		"metadata",
 		"metastore",
@@ -17,15 +17,15 @@
 		{
 			"name": "Kitsune Solar",
 			"email": "kitsune.solar@gmail.com",
-			"homepage": "https://kitsune.solar",
+			"homepage": "https://kitsune.solar/",
 			"role": "Developer"
 		}
 	],
 	"support": {
 		"email": "support@metastore.pro",
 		"issues": "https://gitlab.com/metastore/libraries/lib-roboto-condensed/issues",
-		"forum": "https://webmasters.community",
-		"wiki": "https://webmasters.wiki",
+		"forum": "https://webmasters.community/",
+		"wiki": "https://webmasters.wiki/",
 		"source": "https://gitlab.com/metastore/libraries/lib-roboto-condensed"
 	},
 	"config": {
